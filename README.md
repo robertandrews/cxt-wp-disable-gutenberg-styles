@@ -55,7 +55,7 @@ File block-library/style.min.css.
 
 Remove `wp-container-*` classes
 
-### 4. Disable Layout feature, if Gutenberg active
+### 5. Disable Layout feature, if Gutenberg active
 
 Remove `wp-container-*` classes
 
